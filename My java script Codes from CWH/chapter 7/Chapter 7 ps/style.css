@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* color: white; */
+}
+
+#navbar{
+    background-color: antiquewhite;
+}
+ul{
+    display: flex;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+ul li a:hover{
+    /* text-decoration: underline; */
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+ul li{
+    list-style: none;
+    padding: 20px;
+}

@@ -1,0 +1,1 @@
+In which programming language a variable name can start with digits ?
